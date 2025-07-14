@@ -1,0 +1,9 @@
+joblib==1.4.2
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+lightgbm==4.3.0
+tensorflow==2.16.1
+interpret==0.4.4
+mapie==0.6.2
+quantile-forest==0.1.2
